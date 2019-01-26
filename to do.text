@@ -1,0 +1,12 @@
+- создать остальные компоненты-контейнеры
+- настроить роутер
+- внедрить redux
+
+feed:
+    пагинация (по скролу)
+    server side:
+        алгоритм работы feed'a - ?
+        api для других компонентов
+    
+литература
+    https://habrahabr.ru/company/mailru/blog/303456/ (source code: https://github.com/teropa/redux-voting-server)
